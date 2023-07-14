@@ -1,3 +1,4 @@
 def get_number():
-    """docstring added"""
-    return "6"
+
+    """ """
+    return "10"
