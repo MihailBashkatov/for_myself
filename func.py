@@ -1,4 +1,2 @@
 def get_number():
-    pass
-
-
+    return "6"
