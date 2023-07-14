@@ -1,4 +1,4 @@
 def get_number():
 
-    """ """
-    return "10"
+    """Again hren """
+    return 7+9
