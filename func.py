@@ -1,2 +1,2 @@
 def get_number():
-    return "6"
+    return "10"
